@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ogochukwu-ozotta
-- 👀 I’m interested in geophysics, rock physics and geomechanics
-- 🌱 I’m currently learning python for Geoscientist
-- 💞️ I’m looking to collaborate on solving environmental problems using data science
+- 👀 I have experience in cloud computing, DevOps, solution architects, SysOps, project automation and management
+- 👀 I also have experience in geophysics, rock physics and geomechanics
+- 🌱 I’m currently improving my skills on DevOps for IT project management 
+- 💞️ I’m looking to collaborate on solving software related problems using DevOps
 - 📫 How to reach me email me: ogochukwu.ozotta@gmail.coom
 
 <!---
