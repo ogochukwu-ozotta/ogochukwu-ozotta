@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **DevOps | Cloud | SRE**
 
-- 🌱 I’m currently learning **AI and ML**
+- 🌱 I’m currently learning **Data Science, AI, and Gen AI**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **DevOps and Cloud, Automation, Data Structure**
+- 💬 Ask me about **DevOps and Cloud, Automation, Data Structure, SRE**
 
 - 📫 How to reach me **ogochukwu.ozotta@gmail.com**
 
