@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogochukwu-ozotta" alt="ogochukwu-ozotta" /></a> </p>
 
-- 🔭 I’m currently working on **DevOps | Cloud | SRE**
+- 🔭 I’m currently working on **DevOps | Cloud | Data**
 
 - 🌱 I’m currently learning **Data Science, AI, and Gen AI**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **DevOps and Cloud, Automation, Data Structure, SRE**
+- 💬 Ask me about **DevOps and Cloud, Automation, Data, SRE**
 
 - 📫 How to reach me **ogochukwu.ozotta@gmail.com**
 
